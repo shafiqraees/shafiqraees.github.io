@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://shafiqraees.github.io
+Sitemap: https://shafiqraees.github.io/sitemap.xml
